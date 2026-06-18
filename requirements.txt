@@ -1,0 +1,7 @@
+tensorflow>=2.5.0
+tf-keras
+opencv-python
+imutils
+numpy
+matplotlib
+scikit-learn
